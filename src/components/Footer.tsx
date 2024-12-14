@@ -41,7 +41,7 @@ const Footer = () => {
                 <div className="flex flex-col md:flex-row justify-between items-center text-xs">
                     <p>&copy; {new Date().getFullYear()} All rights reserved.</p>
                     <p className="mt-1 md:mt-0">
-                        Made with <span className="text-red-500">❤</span> by Muhammad Yousuf
+                        Made with <span className="text-red-500">❤</span> by Aiman wajid
                     </p>
                 </div>
             </div>
